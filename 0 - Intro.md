@@ -15,27 +15,4 @@ There is another character inside the pubs and peoples peoples pubs, and this is
 
 The game has no real end - When one night out ends, another one can begin, you can possiblky even carry the adventure on into the day, however this is likley end up up with your characters devloping an alchohol addiction. This will gradually eat away at their sanity stat over a lord period of time. This is a child friendly game and we do not wan't to encourage this behaviour. You cannot win this game, when alhohol is involved you only loose, and for this reason with every copy of the People-and-Pubs payers handbook we include a couon for a local 10-step program.
 
-# Part 1: Creting a Person
-Your first step in your People-and-Pubs aventure is to make the person who will drink in the pub. A character is a combination of game stats, roleplaying hooks =1~~, and subliminal messages from the person controlling you~~. You may be tempted to put thought into what kind of character you wantto be, or hes/her backstory - Dont
 
-## Choose a persona
-Every P&P character belongs to a race, these races include
-	- Chav
-	- Goth
-	- Retired old man
-	- Working man
-	- Drunk college girl
-	- Furry
-	- Polish man
-
-```
-Please note: A controversy has be raise over the use of gendered terms inside the race names in People and Pubs potential Peoples personas inside the P&P pubs. We would like to make it clear that it is very possible to be a female Polish man. 
-```
-
-### Chav
-
-**Fake Gucci Flip-Flop**
-Chavs are a halfling speciies inside the P&P pub, know their use of broken common-tounge and use of counterfeit garments. They typicall range between 5'5" and 5'9", and give off a feint odour of amber leaf. The chav has no unifying phsyical traits, just reemember if they are being obnosvious and seem to have a rudimentray mastery of the common tounge, they are likley a chav. 
----
-=1 - This was added by Oregonoko in an attempt to vanalise the People-and-Pubs players handbook, and thus has bee stuck from the rules
-= 
