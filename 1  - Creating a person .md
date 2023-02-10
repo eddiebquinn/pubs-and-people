@@ -20,6 +20,28 @@ Every P&P character belongs to a race, these races include
 Please note: A controversy has be raise over the use of gendered terms inside the race names in People and Pubs potential Peoples personas inside the P&P pubs. We would like to make it clear that it is very possible to be a female Polish man. 
 ```
 
+##Chav
+Abilities:
+- Improvised wepon: In the event of a pub brawl a chav can use hes resourceful nature to find an improvised wepon i.e. broken bottle
+- Broken Language: Chavs by default are born with accsess to speak broken-common-tounge; a dialect of common tounge with long and complex terms removed, which other personas have trouble understanding
+- JSA: Chavs while without a job inside P&P by default collect an amount of money (deicded by the landlord) once a week, however if they get a job they cannot collect this
+
+Traits:
+- Low inteligence: Chavs by default have low inteligence, however they can have average or above average wisdom 
+- Fake gucci flip flop: Chavs often wear counterfeit armour which can give them an edge in intimidation rolls, however in battle these garments offer no real benefit. A percetption roll can be done to detect is the garment is counterfeit or not
+- Shit music taste: If a chav encounters a musical artist, if the artist makes a performance roll the trational 1-20 meaning is reversed. A nat 1 is equivilent to a nat 20 for a chav, and vise-versa
+
+Apperance:
+- Fake Tan: Female chavs are have an organge glow about them, simulating health. This is typicall synthetic however, and during application he/she will have to roll for how good a job it is. The outcome of this roll will dictate the perception roll for other people to notice
+- Fake gucci flip flop: See fake gucci flip flop entry in chav traits
+- Unpleasent smell: Chavs typically paratke in the use of a substance called "amber leaf", which causes them to have an unpleasent smell about the. When other people are in close proximity to a chav they must roll a constitution save to overcome this.
+
+Personality:
+- Obnoxious: Chavs give little care of the effect their nature has on those around them, weather this is out of spite or gneral social unawareness is up for debate
+- Poor money skills: Chavs will usually have no money, and in the event they get a large amount they will experiance the need to spend it
+- Lack of understanding of basic concepts: This goes hand in hand with lack of inteligence
+
+
 ##Goth
 Abilities:
 - Gloom: The character can create a sense of melancholy and sadness in the pub, lowering the morale of other patrons.
