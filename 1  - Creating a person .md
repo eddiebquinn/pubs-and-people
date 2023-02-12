@@ -20,7 +20,7 @@ Every P&P character belongs to a race, these races include
 Please note: A controversy has be raise over the use of gendered terms inside the race names in People and Pubs potential Peoples personas inside the P&P pubs. We would like to make it clear that it is very possible to be a female Polish man. 
 ```
 
-##Chav
+## Chav
 Abilities:
 - Improvised wepon: In the event of a pub brawl a chav can use hes resourceful nature to find an improvised wepon i.e. broken bottle
 - Broken Language: Chavs by default are born with accsess to speak broken-common-tounge; a dialect of common tounge with long and complex terms removed, which other personas have trouble understanding
@@ -42,7 +42,7 @@ Personality:
 - Lack of understanding of basic concepts: This goes hand in hand with lack of inteligence
 
 
-##Goth
+## Goth
 Abilities:
 - Gloom: The character can create a sense of melancholy and sadness in the pub, lowering the morale of other patrons.
 - Gothic Fashion Sense: Provides a bonus to any charisma-based checks when interacting with other patrons who are also gothic or have similar fashion sense.
