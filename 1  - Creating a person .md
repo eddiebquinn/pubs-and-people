@@ -72,3 +72,28 @@ Culture:
 - Values individuality and self-expression.
 - Has a fondness for dark or "edgy" music, poetry, and art.
 - May be perceived as gloomy or strange by other races, but fiercely loyal to their own kind.
+
+## Retired old man
+Abilities:
+- Wisdom of the Ages: Can provide advice and knowledge based on their many years of experience.
+- Recall of Stories: Can regale other patrons with tales from their life, providing entertainment and potentially impressing them.
+- "I've seen it all" demeanor: Provides a bonus to any Wisdom (Insight) checks to determine if someone is being truthful or sincere.
+Traits:
+- Decreased mobility: Has disadvantage on any physical checks that require speed or agility.
+- Keen senses: Has advantage on Wisdom (Perception) checks to notice details in their surroundings.
+- Calm demeanor: Has advantage on saving throws against being frightened.
+Appearance:
+- Wrinkled skin, grey or white hair.
+- Often seen wearing slippers and a comfortable cardigan.
+Personality:
+- Enjoys taking things slow and easy.
+- Has a wealth of life experience and often dispenses advice to those who will listen.
+- Loves to tell stories from their life, and can often be found in the pub regaling other patrons with tales.
+Equipment:
+- A cane for support when moving around.
+- A pocket watch that has been passed down for generations.
+- A small photo album filled with pictures from their life.
+Culture:
+- Values the simple pleasures in life, such as good company and a cold drink.
+- Has a great appreciation for the wisdom and experiences of their years.
+- Often seen as a mentor figure by other patrons of the pub.
