@@ -13,7 +13,7 @@ Every P&P character belongs to a race, these races include
 	- Working man
 	- Drunk college girl
 	- Furry
-	- Polish man
+	- Migrant worker
 	- Nonse
 
 ```
@@ -133,3 +133,35 @@ Culture:
 - Values hard work and self-sufficiency.
 - Often has a blue-collar job, such as a construction worker, factory worker, or mechanic.
 - May have a strong sense of community and loyalty to their fellow workers or their neighborhood.
+
+## Migrant worker
+Abilities:
+- Tough as Nails: Provides a bonus to any Constitution checks to withstand physical harm.
+- Street Smarts: Has a good understanding of how to navigate social situations and can provide a bonus to any Charisma checks.
+- Devastating Haymaker: Can unleash a powerful punch, providing a bonus to any physical attack rolls.
+
+Traits:
+- Resilient: Has resistance to cold and can withstand harsh weather conditions.
+- Multilingual: Has the ability to speak multiple languages, providing a bonus to any Intelligence checks to decipher languages or communicate with others.
+- Battle-Tested: Has advantage on saving throws against fear.
+
+Appearance:
+- Muscular build, with a rough and weathered appearance.
+- Often wears work clothes or plain, practical clothing.
+- May have scars or other signs of physical damage.
+
+Personality:
+- Friendly and welcoming, with a strong sense of camaraderie towards other immigrants and hardworking individuals.
+- Can be stern and direct when necessary, but generally prefers to resolve conflicts through diplomacy.
+- Respects strength and is willing to stand up for himself and others if provoked.
+
+Equipment:
+- Heavy boots and durable work gloves.
+- A small knife for protection.
+- A worn, but reliable, wristwatch.
+
+Culture:
+- Comes from a former Soviet bloc country and has a strong sense of national pride and history.
+- Works a manual labor job and often goes to the pub after work to unwind.
+- May have a community of fellow immigrants from their home country that they associate with.
+
