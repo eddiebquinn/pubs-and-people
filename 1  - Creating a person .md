@@ -78,22 +78,58 @@ Abilities:
 - Wisdom of the Ages: Can provide advice and knowledge based on their many years of experience.
 - Recall of Stories: Can regale other patrons with tales from their life, providing entertainment and potentially impressing them.
 - "I've seen it all" demeanor: Provides a bonus to any Wisdom (Insight) checks to determine if someone is being truthful or sincere.
+
 Traits:
 - Decreased mobility: Has disadvantage on any physical checks that require speed or agility.
 - Keen senses: Has advantage on Wisdom (Perception) checks to notice details in their surroundings.
 - Calm demeanor: Has advantage on saving throws against being frightened.
+
 Appearance:
 - Wrinkled skin, grey or white hair.
 - Often seen wearing slippers and a comfortable cardigan.
+
 Personality:
 - Enjoys taking things slow and easy.
 - Has a wealth of life experience and often dispenses advice to those who will listen.
 - Loves to tell stories from their life, and can often be found in the pub regaling other patrons with tales.
+
 Equipment:
 - A cane for support when moving around.
 - A pocket watch that has been passed down for generations.
 - A small photo album filled with pictures from their life.
+
 Culture:
 - Values the simple pleasures in life, such as good company and a cold drink.
 - Has a great appreciation for the wisdom and experiences of their years.
 - Often seen as a mentor figure by other patrons of the pub.
+
+## Working man
+Abilities:
+- Strength of the Laborer: Provides a bonus to any physical checks, such as lifting heavy objects or breaking down doors.
+- Work Ethic: Can work tirelessly for extended periods of time without getting tired, providing a bonus to any Constitution checks.
+- Intimidating Stare: Can be used to intimidate other patrons, providing a bonus to any Charisma (Intimidation) checks.
+
+Traits:
+- Tough and Calloused: Has resistance to damage from non-magical weapons.
+- Manual Dexterity: Has advantage on any checks that require fine motor skills, such as repairing equipment or picking locks.
+- Grit and Determination: Has advantage on saving throws against being charmed or intimidated.
+
+Appearance:
+- Muscular build, often with rough hands and forearms.
+- Wears practical work clothes, such as denim overalls, a hard hat, and work boots.
+- May have a beard or mustache.
+
+Personality:
+- Hardworking and reliable, with a sense of duty to their job and their family.
+- Down-to-earth and straightforward, with little patience for fancy talk or pretentiousness.
+- Can be hot-tempered and stubborn at times.
+
+Equipment:
+- Work gloves and safety goggles.
+- Tool belt with a hammer, screwdriver, and wrench.
+- Thermos of coffee or other preferred beverage.
+
+Culture:
+- Values hard work and self-sufficiency.
+- Often has a blue-collar job, such as a construction worker, factory worker, or mechanic.
+- May have a strong sense of community and loyalty to their fellow workers or their neighborhood.
