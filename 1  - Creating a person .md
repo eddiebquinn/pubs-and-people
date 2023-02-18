@@ -134,6 +134,38 @@ Culture:
 - Often has a blue-collar job, such as a construction worker, factory worker, or mechanic.
 - May have a strong sense of community and loyalty to their fellow workers or their neighborhood.
 
+## Drunk College Girl
+
+Abilities:
+- Liquid Courage: Gains a bonus to charisma-based checks when interacting with other patrons while under the influence of alcohol.
+- Wild Dancing: Can use their impressive dance skills to impress or entertain other patrons.
+- Social Butterfly: Has a natural talent for making friends and networking in social situations.
+
+Traits:
+- Alcohol Tolerance: Has advantage on saving throws against the negative effects of alcohol.
+- Impulsive: Tends to act on their emotions and desires without considering the consequences.
+- Risk-taker: Will often take dangerous or reckless actions for the sake of fun or excitement.
+
+Appearance:
+- Bold, attention-grabbing clothing.
+- May have colorful or wild hairstyles.
+- Often seen with a drink in hand.
+
+Personality:
+- Outgoing and extroverted.
+- Enjoys the party lifestyle and is always up for a good time.
+- Can be impulsive and unpredictable.
+
+Equipment:
+- A flask or other alcohol container.
+- A pair of comfortable shoes for dancing.
+- A phone with a large social media following.
+
+Culture:
+- Values having a good time and making new connections.
+- Enjoys attending parties and events, and may be seen as the life of the party.
+- May be perceived as superficial or shallow by other races, but can be fiercely loyal to their friends.
+
 ## Migrant worker
 Abilities:
 - Tough as Nails: Provides a bonus to any Constitution checks to withstand physical harm.
