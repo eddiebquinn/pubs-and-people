@@ -166,6 +166,37 @@ Culture:
 - Enjoys attending parties and events, and may be seen as the life of the party.
 - May be perceived as superficial or shallow by other races, but can be fiercely loyal to their friends.
 
+## Furry
+
+Abilities:
+- Animalistic Charm: The character can use their furry appearance to charm other patrons into doing what they want.
+- Furry Knowledge: Provides a bonus to any intelligence-based checks when interacting with other patrons who are also furries or have knowledge of the furry fandom.
+- Furry Roar: Can be used to impress or intimidate other patrons.
+
+Traits:
+- Keen Senses: Has advantage on Wisdom (Perception) checks to notice details in their surroundings, particularly related to animal behavior.
+- Furry Aura: Radiates an aura of playful energy, making it harder for others to resist joining in their antics.
+- Furry Resistance: Has advantage on saving throws against spells and effects that would cause them to lose interest in or be averse to animal-related activities.
+
+Appearance:
+- Covered in fur, resembling an anthropomorphic animal.
+- May have animal ears, a tail, or both.
+- Often wears animal-themed clothing or accessories.
+
+Personality:
+- Outgoing and playful, often encouraging others to join in on their fun.
+- Strong sense of belonging within the furry community and a desire to express themselves through their fursona.
+- May be perceived as strange or eccentric by other races, but fiercely loyal to their own kind.
+
+Equipment:
+- A fursuit or partial fursuit for public events.
+- Various animal-themed accessories, such as paw gloves or a tail.
+
+Culture:
+- Values creativity and self-expression, particularly through artwork and performance.
+- Has a love of animals and a desire to embody their traits.
+- Often seen at conventions and meetups for furries.
+
 ## Migrant worker
 Abilities:
 - Tough as Nails: Provides a bonus to any Constitution checks to withstand physical harm.
