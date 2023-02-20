@@ -14,7 +14,6 @@ Every P&P character belongs to a race, these races include
 	- Drunk college girl
 	- Furry
 	- Migrant worker
-	- Nonse
 
 ```
 Please note: A controversy has be raise over the use of gendered terms inside the race names in People and Pubs potential Peoples personas inside the P&P pubs. We would like to make it clear that it is very possible to be a female Polish man. 
